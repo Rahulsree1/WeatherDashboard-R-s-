@@ -13,7 +13,7 @@ export default function Title() {
           fontWeight: "bold",
         }}
       >
-        Weather Dashboard (R's)
+        Weather Dashboard
       </h1>
     </div>
   );
