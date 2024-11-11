@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import CityManager from "./components/CityManager";
 import Weather from "./components/Weather";
 import Title from "./components/Title";
-import { Metadata } from "next";
+
 
 
 const Home = () => {
