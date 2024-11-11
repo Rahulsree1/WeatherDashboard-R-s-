@@ -1,20 +1,19 @@
-# 🌤️ Weather Dashboard
+# Weather Dashboard
 
 A responsive weather dashboard built with **Next.js** that provides real-time weather updates for any city. Enter a city name to get details like temperature, wind speed, humidity, and weather conditions in a clean, card-based layout.
 
 [![Deployed Site](https://img.shields.io/badge/Deployed%20Site-Visit-blue.svg)](https://weather-bashboard-rs-rahul-srees-projects.vercel.app/)
 
-## 📋 Features
+## Features
 - **Real-time Weather Data**: Fetches current weather information using a weather API.
 - **User-Friendly Interface**: Card-based design with visually appealing icons and descriptions.
 - **Add and Remove Cities**: Easily add multiple cities to track and delete them when no longer needed.
 - **Responsive Design**: Optimized for various screen sizes, providing a smooth experience on both desktop and mobile.
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend**: [Next.js](https://nextjs.org/), CSS for styling
-- **API**: Integrated with a weather API (e.g., OpenWeatherMap or WeatherAPI)
+- **API**: Integrated with a weather API (OpenWeatherMap)
 
-## 🚀 Getting Started
 
 ### Prerequisites
 - Node.js and npm installed on your machine.
