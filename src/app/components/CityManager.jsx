@@ -56,9 +56,6 @@ const CityManager = ({ cities, setCities }) => {
     }
   };
 
-  const handleRemoveCity = (city) => {
-    setCities(cities.filter((c) => c !== city));
-  };
 
   return (
     <div
