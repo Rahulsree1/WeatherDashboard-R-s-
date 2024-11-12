@@ -83,6 +83,7 @@ const CityManager = ({ cities, setCities }) => {
             width: "400px",
             padding: "6px",
             marginBottom: "5px",
+            border:"1.5px solid black",
             color: "black",
           }}
         />
