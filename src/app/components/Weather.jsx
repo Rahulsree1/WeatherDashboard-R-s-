@@ -161,9 +161,6 @@ const Weather = ({ city, onRemove }) => {
                   fill="#F471A6"
                 ></path>
               </svg>
-              <p class="text-[0.625rem] font-light">
-                Don’t miss out the Rainbow
-              </p>
             </div>
           </div>
         </div>
