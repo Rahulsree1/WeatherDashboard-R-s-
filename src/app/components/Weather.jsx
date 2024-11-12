@@ -142,26 +142,6 @@ const Weather = ({ city, onRemove }) => {
               {weatherData.name}
             </p>
             <p class="text-[1.5em] font-semibold">{weatherData.main.temp}°C</p>
-            <div class="flex items-center justify-center gap-[0.125em]">
-              <svg
-                viewBox="0 0 16 17"
-                fill="none"
-                height="17"
-                width="16"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M8 14.26A5.92 5.92 0 1 0 8 2.42a5.92 5.92 0 0 0 0 11.84Z"
-                  stroke-linejoin="round"
-                  stroke-linecap="round"
-                  stroke="#F471A6"
-                ></path>
-                <path
-                  d="M8.595 5.716A.589.589 0 0 1 8 6.292a.576.576 0 1 1 .595-.576Zm-1.05 5.363V7.636a.448.448 0 0 1 .629-.425.441.441 0 0 1 .268.425v3.443a.449.449 0 0 1-.896 0Z"
-                  fill="#F471A6"
-                ></path>
-              </svg>
-            </div>
           </div>
         </div>
         <div class="h-[0.5px] w-full rounded-full bg-[hsla(336,86%,70%,0.5)]"></div>
